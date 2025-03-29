@@ -47,35 +47,35 @@ We used **Looker Studio, Pandas Profiling, and Matplotlib** to generate key insi
 ---
 ## 📌📊Visualization
 
-![WhatsApp Image 2025-03-29 at 10 50 36_e8ace47a](https://github.com/user-attachments/assets/afb7098a-cec7-46c6-b796-dd623652f43e)
+![WhatsApp Image 2025-03-29 at 10 50 36_e8ace47a](https://github.com/user-attachments/assets/afb7098a-cec7-46c6-b796-dd623652f43e)  
 Top 10 borrowed books
 
 
-![WhatsApp Image 2025-03-29 at 10 50 27_bcf0f09a](https://github.com/user-attachments/assets/f3bd4fbc-fab9-4bef-905a-38e39df32ab2)
+![WhatsApp Image 2025-03-29 at 10 50 27_bcf0f09a](https://github.com/user-attachments/assets/f3bd4fbc-fab9-4bef-905a-38e39df32ab2)  
 Top Library Users Based on Borrowed Books
 
 
-![WhatsApp Image 2025-03-29 at 10 53 15_cf98d27d](https://github.com/user-attachments/assets/15be16e6-3997-42bd-a123-63c993904d66)
+![WhatsApp Image 2025-03-29 at 10 53 15_cf98d27d](https://github.com/user-attachments/assets/15be16e6-3997-42bd-a123-63c993904d66)  
 Borrowing Trend Over Time
 
 
-![WhatsApp Image 2025-03-29 at 10 53 50_eb87db27](https://github.com/user-attachments/assets/ddd5b058-bc7a-400d-812e-751b1f97ee08)
+![WhatsApp Image 2025-03-29 at 10 53 50_eb87db27](https://github.com/user-attachments/assets/ddd5b058-bc7a-400d-812e-751b1f97ee08)  
 Distribution of Library Transactions by Department
 
 
-![WhatsApp Image 2025-03-29 at 10 54 04_99269bae](https://github.com/user-attachments/assets/e965446b-3fd7-482a-a2c6-7ed223b2d065)
+![WhatsApp Image 2025-03-29 at 10 54 04_99269bae](https://github.com/user-attachments/assets/e965446b-3fd7-482a-a2c6-7ed223b2d065)  
 Least Borrowed Books
 
 
-![WhatsApp Image 2025-03-29 at 10 54 24_3d7e1863](https://github.com/user-attachments/assets/c9e233a9-9adf-4bb3-81fd-2ca81f67790e)
+![WhatsApp Image 2025-03-29 at 10 54 24_3d7e1863](https://github.com/user-attachments/assets/c9e233a9-9adf-4bb3-81fd-2ca81f67790e)  
 Borrowing Frequency Day by Day of the week
 
 
-![WhatsApp Image 2025-03-29 at 10 54 51_f63f96d8](https://github.com/user-attachments/assets/cf5afdaf-7325-4677-9b9f-0eee25d9fc1c)
+![WhatsApp Image 2025-03-29 at 10 54 51_f63f96d8](https://github.com/user-attachments/assets/cf5afdaf-7325-4677-9b9f-0eee25d9fc1c)  
 Borrowing Patterns by Month and Year
 
 
-![WhatsApp Image 2025-03-29 at 10 59 15_76dc4687](https://github.com/user-attachments/assets/df683924-4461-44e9-a48a-a85a78212563)
+![WhatsApp Image 2025-03-29 at 10 59 15_76dc4687](https://github.com/user-attachments/assets/df683924-4461-44e9-a48a-a85a78212563)  
 Library Transactions Over Time by Department
 
 ---
@@ -98,11 +98,11 @@ Library Transactions Over Time by Department
 ---
 
 ## 📌📂 Project Structure  
-📦 AI-Library-Insights
-├── 📜 FINAL DATASET - Cleaned_Library.csv # Cleaned dataset used for analysis
-├── 📜 Python code file.ipynb # Jupyter Notebook with insights, trends & visualizations
-├── 📜 README.md # Project documentation
-├── 📜 TEAM BYTE BIRYANI.pdf # Final presentation/report submission
+📦 AI-Library-Insights  
+├── 📜 FINAL DATASET - Cleaned_Library.csv  ⬅️ Cleaned dataset used for analysis  
+├── 📜 Python code file.ipynb  ⬅️ Jupyter Notebook with insights, trends & visualizations  
+├── 📜 README.md  ⬅️ Project documentation  
+├── 📜 TEAM BYTE BIRYANI.pdf  ⬅️ Final presentation/report submission  
 
 ---
 
