@@ -45,6 +45,13 @@ We used **Looker Studio, Pandas Profiling, and Matplotlib** to generate key insi
 🚀 **GPT-4 & Canva** – PPT & Content Generation  
 
 ---
+## 📌📊Visualization
+
+![WhatsApp Image 2025-03-29 at 10 50 36_e8ace47a](https://github.com/user-attachments/assets/afb7098a-cec7-46c6-b796-dd623652f43e)
+Top 10 borrowed books
+
+---
+
 
 ## 📌 📥 How to Use This Project?  
 1️⃣ Clone this repository or open the notebook in **Google Colab**  
